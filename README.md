@@ -1,4 +1,4 @@
-# GUI for ATS
+# GUI for AzureTrustedSigning
 
 **Graphical User Interface for Microsoft Azure Trusted Signing**
 
@@ -14,8 +14,8 @@ This data is securely stored in encrypted form after you enter it and is only us
 
 ## 🔧 Requirements
 - Windows 10 / 11
-- Microsoft Visual Studio to create the application
-- .NET 8.0 Runtime
+- Microsoft Visual Studio 2019+ to create the application
+- .NET 4.8 Runtime
 - Azure Trusted Signing account: https://learn.microsoft.com/en-us/azure/trusted-signing/quickstart
 
 ## 🚀 Usage
@@ -31,22 +31,4 @@ This data is securely stored in encrypted form after you enter it and is only us
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 📧 Contact
-For support or inquiries, please open an [issue](https://github.com/YOUR-USERNAME/GUI-for-ATS/issues) or contact us: www.codenia.com 
 
----
-
-## 📱 Check out our iOS Apps!
-Try our apps on the App Store:
-
-- **[Image Size](https://apps.apple.com/us/app/image-size/id670766542?platform=iphone)**
-- **[Collage](https://apps.apple.com/au/app/collage/id917397212?platform=iphone)**
-- **[Scan & Print](https://apps.apple.com/us/app/scan-print-scanner-app/id1521144316?platform=iphone)**
-- **[Photo Printing](https://apps.apple.com/us/app/photo-printing/id1378362140?platform=iphone)**
-- **[Poster Printing](https://apps.apple.com/us/app/poster-printing/id1565582111?platform=iphone)**
-- **[Passport Photo](https://apps.apple.com/us/app/passport-photo-id-photo/id917389447?platform=iphone)**
-- **[Batch Resize](https://apps.apple.com/us/app/batch-resize/id917394599?platform=iphone)**
-- **[Round Photo](https://apps.apple.com/us/app/round-photo/id1403764917?platform=iphone)**
-- **[PDF to Image](https://apps.apple.com/us/app/pdf-to-image-jpg-png-heic/id1575128484?platform=iphone)**
-- **[Silhouette](https://apps.apple.com/au/app/silhouette/id1439773567?platform=iphone)**
-	
