@@ -1,6 +1,6 @@
 # GUI for AzureTrustedSigning
 
-**Graphical User Interface for Microsoft Azure Trusted Signing**
+**Graphical User Interface for Microsoft Azure Trusted Signing** ported to Net 4.8 Framework from GUI-for-ATS
 
 ## 📌 Overview
 **GUI for ATS** is a user-friendly graphical interface that simplifies the use of **Microsoft Azure Trusted Signing**. It streamlines the process of signing files, making it easier for developers and businesses to integrate secure code signing into their workflow.
