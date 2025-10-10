@@ -4,7 +4,7 @@
 
 ## Instructions
 Instructions
-ORG - [Code signing on Windows with Azure Trusted Signing · Melatonin](https://melatonin.dev/blog/code-signing-on-windows-with-azure-trusted-signing/)
+ORG - [Code signing on Windows with Azure Trusted Signing · Melatonin](https://melatonin.dev/blog/code-signing-on-windows-with-azure-trusted-signing/)<br>
 Improved - [Fighting through Setting up Microsoft Trusted Signing - Rick Strahl's Web Log (west-wind.com)](https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing)
 
 ## 📌 Overview
