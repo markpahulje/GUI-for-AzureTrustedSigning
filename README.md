@@ -3,7 +3,6 @@
 **Graphical User Interface for Microsoft Azure Trusted Signing** to code sign your local application, ported to Net 4.8 Framework from [GUI-for-ATS](https://github.com/codenia/GUI-for-ATS)
 
 ## Instructions
-Instructions
 ORG - [Code signing on Windows with Azure Trusted Signing · Melatonin](https://melatonin.dev/blog/code-signing-on-windows-with-azure-trusted-signing/)
 
 Improved - [Fighting through Setting up Microsoft Trusted Signing - Rick Strahl's Web Log (west-wind.com)](https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing)
