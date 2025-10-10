@@ -2,6 +2,11 @@
 
 **Graphical User Interface for Microsoft Azure Trusted Signing** to code sign your local application, ported to Net 4.8 Framework from [GUI-for-ATS](https://github.com/codenia/GUI-for-ATS)
 
+## Instructions
+Instructions
+ORG - [Code signing on Windows with Azure Trusted Signing · Melatonin](https://melatonin.dev/blog/code-signing-on-windows-with-azure-trusted-signing/)
+Improved - [Fighting through Setting up Microsoft Trusted Signing - Rick Strahl's Web Log (west-wind.com)](https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing)
+
 ## 📌 Overview
 **GUI for ATS** is a user-friendly graphical interface that simplifies the use of **Microsoft Azure Trusted Signing**. It streamlines the process of signing files, making it easier for developers and businesses to integrate secure code signing into their workflow.
 
