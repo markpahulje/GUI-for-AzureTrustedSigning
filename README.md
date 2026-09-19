@@ -18,7 +18,7 @@ This data is securely stored in encrypted form after you enter it and is only us
 ![GUI Screenshot](Screenshot%20GUI%20for%20ATS.jpg)
 
 ## 🔧 Requirements
-- Windows 10 / 11
+- Windows 7, 8, 10 / 11
 - Microsoft Visual Studio 2019+ to create the application
 - .NET 4.8 Runtime
 - Azure Trusted Signing account: https://learn.microsoft.com/en-us/azure/trusted-signing/quickstart
